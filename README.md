@@ -14,8 +14,8 @@ as -o server.o server.s && ld -o server server.o
 
 ## Usage
 
-Server:
+### Server:
 <img src="https://github.com/Jordan-R23/http-server-assembly/blob/main/server.gif" width="512" >
 
-Client:
+### Client:
 <img src="https://github.com/Jordan-R23/http-server-assembly/blob/main/client.gif" width="512" >
